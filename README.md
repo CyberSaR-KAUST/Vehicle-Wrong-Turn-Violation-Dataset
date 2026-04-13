@@ -26,7 +26,7 @@ If you want the **complete video recordings and annotated images** used for dete
 - 📄 Annotation files (e.g., YOLO or CVAT format)
 ## 📌 Citation
 
-If you use **UAV-NIDD** in your research, experiments, or publications, please cite the following paper:
+If you use ** Wrong Turn Violation Dataset** in your research, experiments, or publications, please cite the following paper:
 ```bibtex
 
 @article{anees2026wrongturn,
